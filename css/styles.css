@@ -118,6 +118,26 @@ body{
     border-bottom: 1px solid gray;
 }
 
+.smallScreenImg{
+    display: none;
+}
+
+@media screen and (max-width: 576px){
+    .smallScreenImg{
+        display: contents;
+    }
+    .skillsText p {
+        margin-top: 1rem;
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .biggerScrennImg{
+        display: none;
+    }
+}
+
 
 /*-- accordion --*/
 
