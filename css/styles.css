@@ -5,18 +5,19 @@ body{
 
 #menu {
     z-index: 2;
+    margin-top: 1rem;
 }
 
 #menu-bar {
     width: 45px;
-    height: 40px;
+    height: 30px;
     margin: 40px 0 0 20px;
     cursor: pointer;
 }
 
 .bar {
-    height: 2px;
-    width: 70%;
+    height: 3px;
+    width: 65%;
     background-color: white;
     display: block;
     border-radius: 5px;
@@ -42,12 +43,12 @@ body{
 
 .nav li {
     list-style: none;
-    padding: 10px 0;
+    padding: 8px 0;
 }
 
 .nav li a {
     color: white;
-    font-size: 20px;
+    font-size: 1.3rem;
     text-decoration: none;
 }
 
@@ -92,8 +93,8 @@ body{
 }
 
 .change-bg { 
-    width: 520px;  /** tamanho da bola do menu **/
-    height: 450px;
+    width: 510px;  /** tamanho da bola do menu **/
+    height: 460px;
     transform: translate(-60%,-30%);
 }
 
