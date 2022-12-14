@@ -129,6 +129,7 @@ body{
     .skillsText p {
         margin-top: 1rem;
         font-size: small;
+        margin: 0 1rem;
     }
 }
 
