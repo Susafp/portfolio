@@ -123,13 +123,16 @@ body{
 }
 
 @media screen and (max-width: 576px){
-    .smallScreenImg{
-        display: contents;
+    
+    @supports(display:contents){
+        .smallScreenImg{
+            display: contents;
+        }
     }
     .skillsText p {
         margin-top: 1rem;
         font-size: small;
-        margin: 0 1rem;
+        margin: 1rem 1rem 0 1rem;
     }
 }
 
@@ -179,4 +182,18 @@ footer{
     border: 0;
     width: 74px;
     height:22px;
+}
+
+@supports(text-rendering: auto){
+    .fa,
+    .fa-brands,
+    .fa-classic,
+    .fa-regular,
+    .fa-sharp,
+    .fa-solid,
+    .fab,
+    .far,
+    .fas {
+    text-rendering: auto;
+  }
 }
