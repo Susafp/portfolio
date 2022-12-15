@@ -12,8 +12,6 @@ This project is my professional portfolio, built to showcase my achievments so f
   - [Ux](#ux)
   - [Built with](#built-with)
   - [Testing](#testing)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Deployment](#deployment)
   - [Useful resources and acknowledgements](#useful-resources-and-acknowledgements)
 - [Author](#Author)
