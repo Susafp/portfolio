@@ -43,8 +43,39 @@ Users should be able to:
 
 ## My process
 
-### UX
+### UX & UI
 
+- Colour pallet
+Background: #212529
+Text-light: #f8f9fa and Text-muted: #6c757d
+
+**Features**
+- [Home page](index.html)
+ - Navigation menu
+ - Introduction text and image
+ - Projects section
+  - Scrollable Project Cards with a "visit" button
+  - "Back to top" button
+ - Education section
+  - Qualification Accordion
+  - Training notes image
+  - "Back to top" button
+ - Work Experrience and Skills section
+  - Skills board image
+  - Work Experience Acoordion
+  - "Back to top" button
+ - Page Footer
+  - Social Links
+  - Contact link
+  - Author and copyright
+
+- [Contact page](contact.html)
+ - Alert with "Thank you note"
+ - Navigation Menu
+ - Contact Form
+ - Page Foooter
+  - Social Links
+  - Author and copyright
 
 ### Built with
 
