@@ -1,6 +1,6 @@
 # Frontend Mentor - E-commerce product page solution
 
-This project is my professional portfolio, built to showcase my achievments so far and help establish a link between the past, the present and how I am looking to move forward in order to keep paving the path for future goals.
+This project is my professional portfolio, built to showcase my achievements so far and help establish a link between the past, the present and future goals.
 
 ## Table of contents
 
