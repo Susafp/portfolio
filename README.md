@@ -1,6 +1,7 @@
-# Frontend Mentor - E-commerce product page solution
+# My Portfolio
 
-This project is my professional portfolio, built to showcase my achievements so far and help establish a link between the past, the present and future goals.
+This project is my professional portfolio, the ultimate goal it's to showcase to potential employers and/or customers my progress so far in terms of coding habillities, appropriate usage of different external resources as Formspree, Canva or Figma. Ability to produce clean, maintainable and re-usable code. Experience building responsive websites using HTML, CSS, Bootstrap and JavaScript. 
+
 
 ## Table of contents
 
@@ -20,7 +21,7 @@ This project is my professional portfolio, built to showcase my achievements so 
 
 ### The Portfolio
 
-The challenge was to build out an e-commerce product page and get it looking as close to the design as possible.
+Built to showcase my achievements so far and help establish a link between the past, the present and how I am looking to move forward in order to keep paving the path for future goals. 
 
 Users should be able to:
 
@@ -61,8 +62,10 @@ Users should be able to:
     - I've used **JavaScript** to add functionality to the Navigation menu.
 - [**Formspree**](https://formspree.io/)
     - I've used **Formspree** to be able to receive in my email all messages submited by users throught the Portfolio´s contact form.
+- [**Figma**](https://www.figma.com/)
+    - The design tool that I've used to create the Training image (assets/images/noteBoard.jpg) and the Skills board image (assets/images/skillsBoard.jpg).
 - [**Canva**](https://www.canva.com/en_gb/)
-    - The design tool that I've used to create a presentation image of my solution for this challenge (design/responsive.png).
+    - The design tool that I've used to create a presentation image of my solution for this project (design/responsive.png).
 - [**Git**](https://git-scm.com/)
     - I've used **Git** as a version control system to regularly add and commit changes made to project in Visual Studio Code, before pushing them to GitHub.
 - [**GitHub**](https://github.com/)
