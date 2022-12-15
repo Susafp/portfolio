@@ -51,7 +51,9 @@ Users should be able to:
 - Text-light: #f8f9fa and Text-muted: #6c757d
 
 **Features**
+
 [Home page](index.html)
+
  - Navigation menu, with links to page main sections.
  - Header, with an introduction text and image. 
  - Projects section, with Scrollable Project  Cards and a "visit" button each.
@@ -64,13 +66,13 @@ Users should be able to:
  - Page Footer,
  Social Links, Contact link, Author and copyright
 
-- [Contact page](contact.html)
+[Contact page](contact.html)
+
  - Alert with "Thank you note"
  - Navigation Menu
  - Contact Form
  - Page Foooter
-  - Social Links
-  - Author and copyright
+ With Social Links, Author and copyright
 
 ### Built with
 
