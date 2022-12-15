@@ -53,7 +53,7 @@ Users should be able to:
     - To get all my elements in and set the project structure.
 - [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
     - To add the styles needed to achieve a look as similar as possible to the one provided in the design-guideline.
-- [**Bootstrap v4.3**](https://getbootstrap.com/)
+- [**Bootstrap**](https://getbootstrap.com/)
     - The project uses **Bootstrap v5.2** to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
 - [**jQuery**](https://jquery.com)
     - The project uses **jQuery** to simplify DOM manipulation. This is the standard jQuery that is built with Bootstrap components. 
