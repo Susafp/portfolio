@@ -45,12 +45,13 @@ Users should be able to:
 
 ### UX & UI
 
-- Colour pallet
-Background: #212529
-Text-light: #f8f9fa and Text-muted: #6c757d
+**Colour pallet**
+
+- Background: #212529
+- Text-light: #f8f9fa and Text-muted: #6c757d
 
 **Features**
-- [Home page](index.html)
+[Home page](index.html)
  - Navigation menu, with links to page main sections.
  - Header, with an introduction text and image. 
  - Projects section, with Scrollable Project  Cards and a "visit" button each.
