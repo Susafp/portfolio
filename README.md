@@ -51,23 +51,17 @@ Text-light: #f8f9fa and Text-muted: #6c757d
 
 **Features**
 - [Home page](index.html)
- - Navigation menu
- - Introduction text and image
- - Projects section
-  - Scrollable Project Cards with a "visit" button
-  - "Back to top" button
- - Education section
-  - Qualification Accordion
-  - Training notes image
-  - "Back to top" button
- - Work Experrience and Skills section
-  - Skills board image
-  - Work Experience Acoordion
-  - "Back to top" button
- - Page Footer
-  - Social Links
-  - Contact link
-  - Author and copyright
+ - Navigation menu, with links to page main sections.
+ - Header, with an introduction text and image. 
+ - Projects section, with Scrollable Project  Cards and a "visit" button each.
+ "Back to top" button
+ - Education section,
+ Qualification Accordion, Training notes image and a "Back to top" button
+ - Work Experrience Accordion and 
+ Skills section, with a Skills board image.
+ "Back to top" button.
+ - Page Footer,
+ Social Links, Contact link, Author and copyright
 
 - [Contact page](contact.html)
  - Alert with "Thank you note"
