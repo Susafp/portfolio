@@ -53,7 +53,7 @@ Users should be able to:
 - [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
     - To get all my elements in and set the project structure.
 - [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-    - To add the styles needed to achieve a look as similar as possible to the one provided in the design-guideline.
+    - To add the styles needed to achieve the desired look .
 - [**Bootstrap**](https://getbootstrap.com/)
     - The project uses **Bootstrap v5.2** to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
 - [**jQuery**](https://jquery.com)
@@ -65,7 +65,7 @@ Users should be able to:
 - [**Figma**](https://www.figma.com/)
     - The design tool that I've used to create the Training image (assets/images/noteBoard.jpg) and the Skills board image (assets/images/skillsBoard.jpg).
 - [**Canva**](https://www.canva.com/en_gb/)
-    - The design tool that I've used to create a presentation image of my solution for this project (design/responsive.png).
+    - The design tool that I've used to create a presentation image for this project (design/responsive.png).
 - [**Git**](https://git-scm.com/)
     - I've used **Git** as a version control system to regularly add and commit changes made to project in Visual Studio Code, before pushing them to GitHub.
 - [**GitHub**](https://github.com/)
