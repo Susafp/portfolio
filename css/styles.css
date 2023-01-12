@@ -142,6 +142,26 @@ body{
     }
 }
 
+/* PROJECTS CAROUSEL - MOBILE SCREENS */
+
+
+@media only screen and (max-width: 768px) {
+    .projects{
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 769px) {
+    .carousel{
+        display: none;
+    }
+} 
+
+.carouselImg{
+    width: 85%;
+    padding-left: 15%;
+}
+
 
 /*-- accordion --*/
 
